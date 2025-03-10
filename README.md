@@ -1,1 +1,2 @@
 # api-typeorm
+JOHN MIGUEL CABANTUGAN
